@@ -2,16 +2,16 @@
 
 return [
     'menus' => [
-        ["name" => "Characters", "link" => "#"],
-        ["name" => "Comics", "link" => "#"],
-        ["name" => "Movies", "link" => "#"],
-        ["name" => "Tv", "link" => "#"],
-        ["name" => "Games", "link" => "#"],
-        ["name" => "Collectibles", "link" => "#"],
-        ["name" => "Videos", "link" => "#"],
-        ["name" => "Fans", "link" => "#"],
-        ["name" => "News", "link" => "#"],
-        ["name" => "Shop", "link" => "#"],
+        ["name" => "Characters"],
+        ["name" => "Comics"],
+        ["name" => "Movies"],
+        ["name" => "Tv"],
+        ["name" => "Games"],
+        ["name" => "Collectibles"],
+        ["name" => "Videos"],
+        ["name" => "Fans"],
+        ["name" => "News"],
+        ["name" => "Shop"],
     ],
     'comics' => [
         [
