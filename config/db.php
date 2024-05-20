@@ -1,18 +1,6 @@
 <?php
 
 return [
-    'menus' => [
-        ["name" => "Characters"],
-        ["name" => "Comics"],
-        ["name" => "Movies"],
-        ["name" => "Tv"],
-        ["name" => "Games"],
-        ["name" => "Collectibles"],
-        ["name" => "Videos"],
-        ["name" => "Fans"],
-        ["name" => "News"],
-        ["name" => "Shop"],
-    ],
     'comics' => [
         [
             "title" => "Action Comics #1000: The Deluxe Edition",
