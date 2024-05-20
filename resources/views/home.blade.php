@@ -11,7 +11,7 @@
         <div class="row">
             <div class="col-12 col-md-6 col-lg-3 d-flex w-100 flex-wrap justify-content-center">
                 @foreach ($comics as $comic)
-                <div class="card animate__animated position-relative" onmouseover="this.classList.add('animate__pulse');" onmouseleave="this.classList.remove('animate__pulse');">
+                <div class="card animate__animated position-relative">
                     <img src="{{ $comic['thumb'] }}" class="card-img-top" alt="{{ $comic['title'] }}" />
                     <span class="text-white position-absolute spanpop shadow-lg" style="display: none;">{{ $comic['description'] }}</span>
                     <div class="card-body">
